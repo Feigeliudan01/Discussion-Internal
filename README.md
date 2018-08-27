@@ -1,6 +1,6 @@
 # Discussion: Internal
 
-__Private__ discussion will be held in [the Issues](https://github.com/STAT545-UBC-students/Discussion-Internal/issues) of this repository. To start a new thread, create a new issue. 
+__Private__ discussion will be held in [the Issues](https://github.com/STAT545-UBC/Discussion-Internal/issues) of this repository. To start a new thread, create a new issue. 
 
 Use this to discuss course-specific things that are _not_ relevant to the public. Examples of discussion topics:
 
