@@ -15,3 +15,20 @@ Examples of discussion topics best left for the public [Discussion](https://gith
 - Other types of computational problems
 
 Lots of the good stuff will end up in [closed Issues](https://github.com/STAT545-UBC/Discussion-Internal/issues?q=is%3Aissue+is%3Aclosed), so don't forget to look there! Or, more generally, use the "Search" feature on this repository to find things.
+
+### Teaching Team Tags
+
+Here are the GitHub handles of the teaching team (repeated from the syllabus). You can use these to get our attention!
+
+| Teaching Member | Position | GitHub Handle | 
+|-----------------|----------|---------|
+| Vincenzo Coia   | Instructor | `@vincenzocoia` | 
+| Chad Fibke           | Teaching Assistant | `@ChadFibke` |
+| Hossameldin Mohammed | Teaching Assistant | `@hsmohammed` |
+| Rashedul Islam       | Teaching Assistant | `@rashedul` |
+| Sherrie Wang         | Teaching Assistant | `@sherrie9` |
+
+Team handles:
+
+- `@2018_teaching_team` for all members of the teaching team
+- `@2018_students` for all of your classmates
