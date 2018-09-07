@@ -1,6 +1,6 @@
 # Discussion: Internal
 
-__Private__ discussion will be held in [the Issues](https://github.com/STAT545-UBC/Discussion-Internal/issues) of this repository. To start a new thread, create a new issue. 
+~~__Private__~~ discussion related to course matters will be held in [the Issues](https://github.com/STAT545-UBC/Discussion-Internal/issues) of this repository. To start a new thread, create a new issue. 
 
 Use this to discuss course-specific things that are _not_ relevant to the public. Examples of discussion topics:
 
@@ -30,5 +30,5 @@ Here are the GitHub handles of the teaching team (repeated from the syllabus). Y
 
 Team handles:
 
-- `@2018_teaching_team` for all members of the teaching team
+- `@2018_teaching_team` for all members of the teaching team (will be updated over time)
 - `@2018_students` for all of your classmates
